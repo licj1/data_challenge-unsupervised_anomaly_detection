@@ -6,7 +6,7 @@ The notebook of this folder presents a solution for an unsupervised anomaly dete
 
 This exercice was presented as a data challenge competition during my Post Master program in Big Data at Télécom Paris. I ranked 2nd out of 51 participants.
 
-The notebook has been redacted in french but you can find the corresponding english article in my portfolio here : https://antonindurieux.github.io/portfolio/1_accelerometer_anomaly_detection/, under a beautiful presentation and with some interactive visualizations.
+The notebook has been redacted in french but you can find the corresponding english article in my portfolio here : https://antonindurieux.github.io/portfolio/2_accelerometer_anomaly_detection/.
 
 ## Usage
 
